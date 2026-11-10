@@ -4,6 +4,10 @@
 **Tools:** Power BI Service, Power BI Desktop, Power Query, MySQL, Excel/CSV  
 **Evidence:** 15-page academic lab report (PDF to be uploaded separately)
 
+## Original lab report
+
+[View Lab 04 report (PDF)](<Lab%2004%20Manual.pdf>) — original academic lab documentation and screenshots.
+
 ## Overview
 
 This lab demonstrates connecting spreadsheet and MySQL sales data to **Microsoft Power BI**, building relationships between imported tables, creating interactive data visualizations, and publishing and sharing reports.
