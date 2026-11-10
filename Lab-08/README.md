@@ -4,6 +4,10 @@
 **Tools:** Python, Logstash, Elasticsearch, Kibana, Excel/CSV  
 **Evidence:** 20-page academic lab report (PDF to be uploaded separately)
 
+## Original lab report
+
+[View Lab 08 report (PDF)](<Lab%2008%20Manual.pdf>) — original academic lab documentation and screenshots.
+
 ## Overview
 
 This lab documents an end-to-end analytics exercise using a public **liquor sales** dataset from Kaggle, described in the report as containing more than 100,000 rows and over 10 columns. Work included developing research questions, cleaning the data with Python, converting and ingesting data through Logstash, managing Elasticsearch index mappings and templates, querying records, and creating Kibana visualizations and a dashboard.
