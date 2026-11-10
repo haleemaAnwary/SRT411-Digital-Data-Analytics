@@ -4,6 +4,10 @@
 **Tools:** Filebeat, Elasticsearch, Kibana, auditd, Kali Linux, Nmap  
 **Evidence:** 19-page academic lab report (PDF to be uploaded separately)
 
+## Original lab report
+
+[View Lab 07 report (PDF)](<Lab%2007%20Manual.pdf>) — original academic lab documentation and screenshots.
+
 ## Overview
 
 This lab explores open-source threat intelligence ingestion and Linux security-event monitoring in the Elastic Stack. It documents the Filebeat threat-intelligence module with abuse.ch sources, collection of auditd records, controlled activity from a Kali Linux virtual machine, and security-oriented Kibana visualizations.
