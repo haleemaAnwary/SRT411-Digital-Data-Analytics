@@ -3,7 +3,7 @@
 **Course:** SRT411 — Digital Data Analytics  
 **Submitted:** May 21, 2024  
 **Platform:** Microsoft Excel  
-**Evidence:** 31-page academic lab report (PDF to be uploaded separately)
+**Evidence:** 31-page academic lab report (PDF available below)
 
 ## Original lab report
 
@@ -35,7 +35,7 @@ Applied value thresholds, data bars, colour scales, and date-based formatting to
 **Excel · PivotTables · Data Aggregation · Formula-Based Analysis · XLOOKUP/VLOOKUP · Conditional Formatting · Data Reporting**
 
 ## Documentation
-The original report includes step-by-step explanations and screenshots of the worksheet tasks. Once uploaded, link the PDF here.
+The original report includes step-by-step explanations and screenshots of the worksheet tasks. The original report is linked above.
 
 ## Scope
 This is an introductory **data analytics** lab, not a security-monitoring or incident-response project. The original Excel workbook and underlying sales dataset are not included here.
