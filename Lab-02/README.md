@@ -5,6 +5,10 @@
 **Platform:** Microsoft Excel  
 **Source:** 23-page academic lab report (PDF to be uploaded separately)
 
+## Original lab report
+
+[View Lab 02 report (PDF)](<Lab%2002%20Manual.pdf>) — original academic lab documentation and screenshots.
+
 ## Overview
 This lab builds on Lab 01 by preparing a sales dataset for analysis, selecting and customizing visualizations, creating derived metrics, and building interactive PivotTable-based reports and charts.
 
