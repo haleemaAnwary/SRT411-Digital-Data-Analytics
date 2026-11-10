@@ -9,7 +9,12 @@ Seneca's SRT411 course introduces the collection and acquisition of digital data
 
 This portfolio documents **eight completed academic labs**, progressing from Excel analysis and SQL to Power BI, Elasticsearch, centralized logging, threat intelligence, and security-event analysis.
 
-Eight academic labs in data processing, reporting, relational databases, business intelligence, centralized logging, and security analytics.
+## Cybersecurity-relevant highlights
+
+- **[Lab 05 — ELK Stack and NGINX logs](Lab-05/):** deployed Elasticsearch, Logstash, and Kibana; ingested access logs and built visualizations.
+- **[Lab 06 — Security log and DNS data analytics](Lab-06/):** parsed MySQL/application logs and examined benign browser and DNS-tunneling datasets.
+- **[Lab 07 — Threat intelligence and Linux audit monitoring](Lab-07/):** ingested abuse.ch indicators using Filebeat and explored auditd events in Kibana.
+- **[Lab 08 — Elasticsearch data analytics](Lab-08/):** used Python preprocessing, mappings, queries, and dashboard visualizations on a large sales dataset.
 
 ## Labs
 
@@ -32,4 +37,4 @@ Eight academic labs in data processing, reporting, relational databases, busines
 - **Infrastructure and monitoring:** Ubuntu Linux, Docker, Portainer, Elasticsearch, Logstash, Filebeat and auditd
 - **Security-data exercises:** Web/application logs, DNS traffic datasets and open-source threat intelligence
 
-Each lab folder contains a report-grounded README. Original assignment PDFs may be added individually after reviewing them for personal information and other content unsuitable for a public repository. These are **academic lab records**, not production deployments or fully reproducible code repositories.
+Each lab folder contains its original report PDF and a report-grounded README with a direct report link. These are **academic lab records**, not production deployments or fully reproducible code repositories.
