@@ -2,7 +2,7 @@
 
 **Course:** SRT411 — Digital Data Analytics  
 **Tools:** Power BI Service, Power BI Desktop, Power Query, MySQL, Excel/CSV  
-**Evidence:** 15-page academic lab report (PDF to be uploaded separately)
+**Evidence:** 15-page academic lab report (PDF available below)
 
 ## Original lab report
 
