@@ -3,7 +3,7 @@
 **Course:** SRT411 — Digital Data Analytics  
 **Submitted:** May 28, 2024  
 **Platform:** Microsoft Excel  
-**Source:** 23-page academic lab report (PDF to be uploaded separately)
+**Source:** 23-page academic lab report (PDF available below)
 
 ## Original lab report
 
@@ -42,7 +42,7 @@ Created a **Sales Performance Score** using profit, unit price, and unit cost. T
 **Excel · Data Cleaning · Deduplication · Data Transformation · Feature Engineering · PivotTables · PivotCharts · Data Visualization · Slicers · Interactive Dashboards · Reporting**
 
 ## Documentation
-The report contains screenshots and explanations for Tasks 01–15. Upload the original PDF into this folder separately, then add a link here.
+The report contains screenshots and explanations for Tasks 01–15. The original report is linked above.
 
 ## Scope
 This is an academic Excel analytics lab using sales data, not an independently built security monitoring dashboard or a production analytics system. The original workbook and dataset are not included in this repository.
