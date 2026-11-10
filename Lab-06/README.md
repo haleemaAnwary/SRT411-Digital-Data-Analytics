@@ -4,6 +4,10 @@
 **Technologies:** Elasticsearch, Logstash, Kibana, Grok, Mutate filters  
 **Evidence:** Academic Lab 06 report (PDF to be uploaded separately)
 
+## Original lab report
+
+[View Lab 06 report (PDF)](<Lab%2006%20Manual.pdf>) — original academic lab documentation and screenshots.
+
 ## Overview
 This lab extends ELK-based logging by ingesting application and MySQL logs, extracting structured event fields, exploring records in Kibana, and creating visualizations of benign browser DNS traffic and malicious DNS-tunneling datasets.
 
