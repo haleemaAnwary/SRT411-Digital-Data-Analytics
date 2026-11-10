@@ -1,5 +1,14 @@
 # SRT411 — Digital Data Analytics
 
+**Seneca Polytechnic | Honours Bachelor of Information Technology – Cybersecurity**  
+**Official course outline:** [SRT411 — Digital Data Analytics](https://www.senecapolytechnic.ca/ssos/findwithoutsemester/srt411/sict)
+
+## Course overview
+
+Seneca's SRT411 course introduces the collection and acquisition of digital data, preprocessing and cleaning, analytical methods, and visualization and communication of results. In a cybersecurity context, these techniques support the analysis of logs and other security-relevant data to investigate potential threats and inform compliance decisions.
+
+This portfolio documents **eight completed academic labs**, progressing from Excel analysis and SQL to Power BI, Elasticsearch, centralized logging, threat intelligence, and security-event analysis.
+
 Eight academic labs in data processing, reporting, relational databases, business intelligence, centralized logging, and security analytics.
 
 ## Labs
