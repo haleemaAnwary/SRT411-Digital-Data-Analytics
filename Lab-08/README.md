@@ -2,7 +2,7 @@
 
 **Course:** SRT411 — Digital Data Analytics  
 **Tools:** Python, Logstash, Elasticsearch, Kibana, Excel/CSV  
-**Evidence:** 20-page academic lab report (PDF to be uploaded separately)
+**Evidence:** 20-page academic lab report (PDF available below)
 
 ## Original lab report
 
