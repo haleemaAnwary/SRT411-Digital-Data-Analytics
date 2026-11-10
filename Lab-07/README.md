@@ -2,7 +2,7 @@
 
 **Course:** SRT411 — Digital Data Analytics  
 **Tools:** Filebeat, Elasticsearch, Kibana, auditd, Kali Linux, Nmap  
-**Evidence:** 19-page academic lab report (PDF to be uploaded separately)
+**Evidence:** 19-page academic lab report (PDF available below)
 
 ## Original lab report
 
