@@ -1,18 +1,26 @@
 # SRT411 — Digital Data Analytics
 
-A collection of eight academic labs completed in SRT411 (Digital Data Analytics), organized by lab number. Each lab includes a summary based on its original report, with supporting reports added separately.
+Eight academic labs in data processing, reporting, relational databases, business intelligence, centralized logging, and security analytics.
 
 ## Labs
 
 | Lab | Focus | Documentation |
 |---|---|---|
-| Lab 01 | Excel PivotTables, formulas, lookups and conditional formatting | [Lab-01](Lab-01/) |
-| Lab 02 | Data cleaning, visualization and interactive Excel dashboards | [Lab-02](Lab-02/) |
-| Lab 03 | Ubuntu, Docker, containerized MySQL and SQL data management | [Lab-03](Lab-03/) |
-| Lab 04 | Power BI, Power Query, MySQL data models and dashboards | [Lab-04](Lab-04/) |
-| Lab 05 | ELK Stack, NGINX log ingestion and Elasticsearch queries | [Lab-05](Lab-05/) |
-| Lab 06 | Centralized logging, Kibana analysis and DNS traffic datasets | [Lab-06](Lab-06/) |
-| Lab 07 | Documentation pending | [Lab-07](Lab-07/) |
-| Lab 08 | Documentation pending | [Lab-08](Lab-08/) |
+| 01 | Excel PivotTables, formulas, lookups and conditional formatting | [Lab-01](Lab-01/) |
+| 02 | Data cleaning, charting and interactive Excel dashboards | [Lab-02](Lab-02/) |
+| 03 | Ubuntu, Docker, Portainer, MySQL and SQL operations | [Lab-03](Lab-03/) |
+| 04 | Power BI, Power Query, MySQL data models and dashboards | [Lab-04](Lab-04/) |
+| 05 | ELK Stack deployment, NGINX log ingestion and Elasticsearch queries | [Lab-05](Lab-05/) |
+| 06 | Centralized logging, Kibana visualizations and DNS traffic analysis | [Lab-06](Lab-06/) |
+| 07 | Filebeat threat intelligence and Linux audit-event monitoring | [Lab-07](Lab-07/) |
+| 08 | Python data cleaning, Elasticsearch mappings, queries and Kibana dashboards | [Lab-08](Lab-08/) |
 
-The repository presents academic coursework and lab documentation, not production implementations. Descriptions are limited to work supported by the supplied reports.
+## Technical coverage
+
+- **Data analysis:** Excel, Python, data cleaning, exploratory analysis and descriptive statistics
+- **Databases:** MySQL, SQL queries, joins, views, stored procedures and transactions
+- **Visualization and reporting:** Power BI, Kibana, PivotTables and interactive dashboards
+- **Infrastructure and monitoring:** Ubuntu Linux, Docker, Portainer, Elasticsearch, Logstash, Filebeat and auditd
+- **Security-data exercises:** Web/application logs, DNS traffic datasets and open-source threat intelligence
+
+Each lab folder contains a report-grounded README. Original assignment PDFs may be added individually after reviewing them for personal information and other content unsuitable for a public repository. These are **academic lab records**, not production deployments or fully reproducible code repositories.
