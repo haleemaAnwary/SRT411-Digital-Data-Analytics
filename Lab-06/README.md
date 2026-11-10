@@ -2,7 +2,7 @@
 
 **Course:** SRT411 — Digital Data Analytics  
 **Technologies:** Elasticsearch, Logstash, Kibana, Grok, Mutate filters  
-**Evidence:** Academic Lab 06 report (PDF to be uploaded separately)
+**Evidence:** Academic Lab 06 report (PDF available below)
 
 ## Original lab report
 
