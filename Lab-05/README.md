@@ -6,6 +6,10 @@
 **Tools:** Elasticsearch, Logstash, Kibana, NGINX access logs  
 **Evidence:** 16-page academic lab report (PDF to be uploaded separately)
 
+## Original lab report
+
+[View Lab 05 report (PDF)](<Lab%2005%20Manual.pdf>) — original academic lab documentation and screenshots.
+
 ## Overview
 
 This lab explores centralized log management and search analytics through the **ELK Stack** (Elasticsearch, Logstash, Kibana). It documents installation and configuration, log ingestion from an NGINX `access.log` file, dashboard visualizations, and basic index/document operations in Elasticsearch.
