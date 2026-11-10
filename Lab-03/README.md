@@ -2,7 +2,7 @@
 
 **Course:** SRT411 — Digital Data Analytics  
 **Platform:** Ubuntu Server, VirtualBox, Docker, Portainer, MySQL Workbench  
-**Evidence:** 23-page academic lab report (PDF to be uploaded separately)
+**Evidence:** 23-page academic lab report (PDF available below)
 
 ## Original lab report
 
@@ -40,7 +40,7 @@ Explained the **Extract, Transform, Load (ETL)** process and its relevance to da
 **Ubuntu Linux · VirtualBox · Docker · Portainer · MySQL · MySQL Workbench · SQL Joins · Relational Databases · Views · Indexes · Stored Procedures · Triggers · Transaction Management · Data Cleaning · ETL Fundamentals**
 
 ## Documentation
-The original 23-page report contains implementation screenshots, SQL examples, and explanations. Upload the PDF to this folder and link it here.
+The original 23-page report contains implementation screenshots, SQL examples, and explanations. The original report is linked above.
 
 ## Scope and limitations
 This is a structured **academic database and infrastructure lab**, not a production database service or a demonstrated security incident-detection implementation. Full Docker configuration and independently executable SQL source files are not included in this repository.
