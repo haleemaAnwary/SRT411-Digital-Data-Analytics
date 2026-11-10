@@ -4,6 +4,10 @@
 **Platform:** Ubuntu Server, VirtualBox, Docker, Portainer, MySQL Workbench  
 **Evidence:** 23-page academic lab report (PDF to be uploaded separately)
 
+## Original lab report
+
+[View Lab 03 report (PDF)](<Lab%2003%20Manual.pdf>) — original academic lab documentation and screenshots.
+
 ## Overview
 This lab introduces a virtualized Linux database environment and uses SQL to create, query, modify, and manage a sales database. It also covers data preparation and the Extract–Transform–Load (ETL) process.
 
