@@ -5,6 +5,10 @@
 **Platform:** Microsoft Excel  
 **Evidence:** 31-page academic lab report (PDF to be uploaded separately)
 
+## Original lab report
+
+[View Lab 01 report (PDF)](<Lab%2001%20Manual.pdf>) — original academic lab documentation and screenshots.
+
 ## Overview
 This lab applies Excel's data analysis capabilities to a supplied sales dataset. It demonstrates PivotTable-based reporting, formula-driven calculations, lookup functions, and conditional formatting.
 
