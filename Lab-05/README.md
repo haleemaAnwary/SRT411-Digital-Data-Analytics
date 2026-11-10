@@ -4,7 +4,7 @@
 **Submitted:** June 9, 2024  
 **Platform:** Ubuntu Linux  
 **Tools:** Elasticsearch, Logstash, Kibana, NGINX access logs  
-**Evidence:** 16-page academic lab report (PDF to be uploaded separately)
+**Evidence:** 16-page academic lab report (PDF available below)
 
 ## Original lab report
 
@@ -44,7 +44,7 @@ Explained clusters and nodes, master versus data-node responsibilities, document
 - **Pages 11–14:** Elasticsearch index and document operations
 - **Pages 15–16:** Conceptual reflections and setup notes
 
-Upload `Lab 05 Manual.pdf` to this directory separately, then add a link to the report.
+The original report is linked above.
 
 ## Scope and limitations
 This is an academic logging and analytics lab. The report demonstrates ingestion and visualization of **NGINX access logs**, not a production security operations centre or a validated threat-detection system. The report says the Logstash pipeline code was obtained with chatbot assistance. Original executable pipeline files and datasets are not included in this repository.
